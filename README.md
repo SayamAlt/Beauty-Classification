@@ -1,5 +1,8 @@
 # Beauty-Classification
-Successfully established a deep learning model which can accurately predict whether a woman's face is beautiful or average. 
+Successfully established a deep learning model which can precisely classify female facial images into mainly two classes, beautiful and average.
+
+![Beauty Classification](https://etrain.xyz/assets/img/posts/SCUT-FBP5500-score.png)
+![Beauty Classification](https://miro.medium.com/max/1068/1*NoAGOF-PE6_QoLoqCeMesg.png)
 
 ## Context
 
